@@ -1,0 +1,142 @@
+[{
+  "id": 1,
+  "first_name": "Marysa",
+  "last_name": "Doles",
+  "email": "mdoles0@google.co.jp",
+  "gender": "Female",
+  "class attendance": 13
+}, {
+  "id": 2,
+  "first_name": "Leonanie",
+  "last_name": "Mucci",
+  "email": "lmucci1@booking.com",
+  "gender": "Female",
+  "class attendance": 9
+}, {
+  "id": 3,
+  "first_name": "Lauren",
+  "last_name": "Paulot",
+  "email": "lpaulot2@walmart.com",
+  "gender": "Male",
+  "class attendance": 8
+}, {
+  "id": 4,
+  "first_name": "Simona",
+  "last_name": "Harniman",
+  "email": "sharniman3@stumbleupon.com",
+  "gender": "Female",
+  "class attendance": 20
+}, {
+  "id": 5,
+  "first_name": "Humfrid",
+  "last_name": "Seckington",
+  "email": "hseckington4@storify.com",
+  "gender": "Male",
+  "class attendance": 2
+}, {
+  "id": 6,
+  "first_name": "Callida",
+  "last_name": "Sleite",
+  "email": "csleite5@uiuc.edu",
+  "gender": "Female",
+  "class attendance": 9
+}, {
+  "id": 7,
+  "first_name": "Janie",
+  "last_name": "Calderon",
+  "email": "jcalderon6@salon.com",
+  "gender": "Female",
+  "class attendance": 2
+}, {
+  "id": 8,
+  "first_name": "Skipper",
+  "last_name": "Demann",
+  "email": "sdemann7@mlb.com",
+  "gender": "Male",
+  "class attendance": 7
+}, {
+  "id": 9,
+  "first_name": "Linea",
+  "last_name": "Rigardeau",
+  "email": "lrigardeau8@about.com",
+  "gender": "Female",
+  "class attendance": 16
+}, {
+  "id": 10,
+  "first_name": "Raimund",
+  "last_name": "Crutchley",
+  "email": "rcrutchley9@mediafire.com",
+  "gender": "Male",
+  "class attendance": 6
+}, {
+  "id": 11,
+  "first_name": "Antonella",
+  "last_name": "Brooker",
+  "email": "abrookera@omniture.com",
+  "gender": "Female",
+  "class attendance": 4
+}, {
+  "id": 12,
+  "first_name": "Franciskus",
+  "last_name": "Hallagan",
+  "email": "fhallaganb@wikia.com",
+  "gender": "Male",
+  "class attendance": 9
+}, {
+  "id": 13,
+  "first_name": "Minne",
+  "last_name": "de Mendoza",
+  "email": "mdemendozac@alibaba.com",
+  "gender": "Female",
+  "class attendance": 4
+}, {
+  "id": 14,
+  "first_name": "Imojean",
+  "last_name": "Sagerson",
+  "email": "isagersond@nydailynews.com",
+  "gender": "Female",
+  "class attendance": 6
+}, {
+  "id": 15,
+  "first_name": "Dulcia",
+  "last_name": "Pichmann",
+  "email": "dpichmanne@dion.ne.jp",
+  "gender": "Female",
+  "class attendance": 5
+}, {
+  "id": 16,
+  "first_name": "Sarine",
+  "last_name": "Drought",
+  "email": "sdroughtf@weibo.com",
+  "gender": "Female",
+  "class attendance": 6
+}, {
+  "id": 17,
+  "first_name": "Toddy",
+  "last_name": "Lambie",
+  "email": "tlambieg@google.ru",
+  "gender": "Male",
+  "class attendance": 11
+}, {
+  "id": 18,
+  "first_name": "Shirleen",
+  "last_name": "O'Cridigan",
+  "email": "socridiganh@archive.org",
+  "gender": "Female",
+  "class attendance": 2
+}, {
+  "id": 19,
+  "first_name": "Cecelia",
+  "last_name": "Macieiczyk",
+  "email": "cmacieiczyki@google.es",
+  "gender": "Female",
+  "class attendance": 14
+}, {
+  "id": 20,
+  "first_name": "Corey",
+  "last_name": "Daingerfield",
+  "email": "cdaingerfieldj@techcrunch.com",
+  "gender": "Female",
+  "is_attended": true,
+  "class attendance": 11
+}]
